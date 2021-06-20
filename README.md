@@ -20,12 +20,12 @@ OTRU -  This letters will take less than the natural eye blinking time to pronou
  Otru = ["க்", "ங்", "ச்", "ஞ்", "ட்", "ண்", "த்", "ந்", "ப்", "ம்", "ய்", "ர்", "ல்", "வ்", "ழ்", "ள்", "ற்", "ன்", "ஃ"]
  ```
 
-**Rule for NIRAYASI -** #### NIRAI 
+**Rule for NIRAYASI - NIRAI** 
 
 **RULE 1:** TWO Kuril letters can come together or along with one or two OTRU letters  
 **RULE 2:** ONE KURIL and ONE NEDIL letter can come together or along with one or two OTRU letters  
 
-**Rule for NERASAI** - #### NER  
+**Rule for NERASAI - NER**  
 
 **RULE 1:** Single KURIL letter can come alone or along with one or two OTRU letters  
 **RULE 2:** Single NEDIL letter can come alone or along with one or two OTRU letters  

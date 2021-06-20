@@ -50,5 +50,8 @@ while parse the string into character. It will be
 
 ளை - NEDIL  
 
-
+As per **NIRAYASAI** rule 1
+```
+TWO Kuril letters can come together or along with one or two OTRU letters
+```
 

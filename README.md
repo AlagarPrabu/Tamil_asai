@@ -10,6 +10,10 @@ As time consideration is clasified
 KURIL - This letters will take natural eye blinking time to pronounce  
 NEDIL - This letters will take more than the natural eye blinking time to pronounce  
 OTRU -  This letters will take less than the natural eye blinking time to pronounce.  
+```python
+Kuril = ["அ", "இ", "உ", "எ", "ஒ", "க", "ங", "ச", "ஞ", "ட", "ண", "த", "ந", "ப", "ம", "ய", "ர", "ல", "வ", "ழ", "ள", "ற", "ன", "கி", "ஙி", "சி", "ஞி", "டி", "ணி", "தி", "நி", "பி", "மி", "யி", "ரி", "லி", "வி", "ழி", "ளி", "றி", "னி", "கு", "ஙு", "சு", "ஞு", "டு", "ணு", "து", "நு",
+             "பு", "மு", "யு", "ரு", "லு", "வு", "ழு", "ளு", "று", "னு", "கெ", "ஙெ", "செ", "ஞெ", "டெ", "ணெ", "தெ", "நெ", "பெ", "மெ", "யெ", "ரெ", "லெ", "வெ", "ழெ", "ளெ", "றெ", "னெ", "கொ", "ஙொ", "சொ", "ஞொ", "டொ", "ணொ", "தொ", "நொ", "பொ", "மொ", "யொ", "ரொ", "லொ", "வொ", "ழொ", "ளொ", "றொ", "னொ"]
+ ```
 
 **Rule for NIRAYASI - #NIRAI** 
 
@@ -21,7 +25,7 @@ OTRU -  This letters will take less than the natural eye blinking time to pronou
 **RULE 1:** Single KURIL letter can come alone or along with one or two OTRU letters  
 **RULE 2:** Single NEDIL letter can come alone or along with one or two OTRU letters  
 
-Example
+**Example**
 ```python
 string = "அடுக்குகளை"
 ```
@@ -29,4 +33,11 @@ while parse the string into character. It will be
 ```python
 ['அ', 'டு','க்', 'கு', 'க', 'ளை']
 ```
+அ - KURIL
+டு - KURIL
+க் - OTRU
+கு - KURIL
+க - KURIL
+ளை - NEDIL
+
 

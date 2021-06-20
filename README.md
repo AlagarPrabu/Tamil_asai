@@ -25,3 +25,8 @@ Example
 ```python
 string = "அடுக்குகளை"
 ```
+while parse the string into character. It will be
+```python
+['அ', 'டு','க்', 'கு', 'க', 'ளை']
+```
+

@@ -17,5 +17,11 @@ OTRU -  This letters will take less than the natural eye blinking time to pronou
 **RULE 2:** ONE KURIL and ONE NEDIL letter can come together or along with one or two OTRU letters  
 
 **Rule for NERASAI** - #NER  
+
 **RULE 1:** Single KURIL letter can come alone or along with one or two OTRU letters  
 **RULE 2:** Single NEDIL letter can come alone or along with one or two OTRU letters  
+
+Example
+```python
+string = "அடுக்குகளை"
+```

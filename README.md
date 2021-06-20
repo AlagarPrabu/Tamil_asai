@@ -54,4 +54,17 @@ As per **NIRAYASAI** rule 1
 ```
 TWO Kuril letters can come together or along with one or two OTRU letters
 ```
+Here **அடுக்** two KURIL letters comes with one OTRU letter so this is **NIRAI** asai  
+
+Then,
+
+**குக** two KURIL letters comes together so this is also **NIRAI** asai  
+
+And then,
+
+**ளை** one NEDIL letter come alone so this is **NER** asai
+
+Finally,
+
+**அடுக்குகளை** = **NIRAI NER NER**  
 

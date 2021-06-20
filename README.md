@@ -80,4 +80,4 @@ python main.py
 ```
 Refer below image  
 
-![Image of Tamil_Asai](https://github.com/AlagarPrabu/Tamil_asai/edit/main/tamil_asai.png)
+![Image of Tamil_Asai](https://github.com/AlagarPrabu/Tamil_asai/blob/main/tamil_asai.png)

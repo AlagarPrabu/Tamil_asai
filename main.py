@@ -6,7 +6,7 @@ def get_input():
     exit()
   else:
     get_asai = asai_conversion.word_convert(get_string)
-    print(str(get_string)+ ": "str(get_asai))
+    print("Given string asai is : " +str(get_asai))
     get_input()
     
 if __name__ == "__main__":

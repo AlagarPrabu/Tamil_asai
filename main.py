@@ -5,7 +5,7 @@ def get_input():
   if(get_string == "exit"):
     exit()
   else:
-    get_asai = asai_conversion.get_characters(get_string)
+    get_asai = asai_conversion.word_convert(get_string)
     print(str(get_string)+ ": "str(get_asai))
     get_input()
     

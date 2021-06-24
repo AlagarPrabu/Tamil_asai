@@ -3,7 +3,7 @@
 Asai process is the important play role in the Tamil literature classification. Yaappilakkanam defined the rule for the literature like  
 ADI - Lines  
 SEER - WORD  
-**ASAI - (NERASAI and NIRAYASAI) its classified from the time duration taken to pronounce a letter.**   
+**ASAI - (NERASAI and NIRAYASAI) canbe defined based on the Kuril, Nedil and Otru letters in the string.**   
 
 As time consideration is clasified  
 
